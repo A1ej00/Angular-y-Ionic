@@ -1,1 +1,0 @@
-# Angular-y-Ionic
